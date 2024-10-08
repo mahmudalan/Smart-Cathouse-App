@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "839410686309",
+    "firebase_url": "https://smart-cathouse-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-cathouse",
+    "storage_bucket": "smart-cathouse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839410686309:android:5100caa6e2246df272698c",
+        "android_client_info": {
+          "package_name": "com.example.cathouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrwDYAWAZQ26TyMJGkvdr9EL53g3cJGVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

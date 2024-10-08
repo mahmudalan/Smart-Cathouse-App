@@ -1,0 +1,10 @@
+import 'package:firebase_database/firebase_database.dart';
+final database = FirebaseDatabase.instance.ref();
+final dataSuhu = database.child('dataSuhu');
+final dataKelembaban = database.child('dataKelembaban');
+final dataJarak = database.child('dataJarak');
+final dataLevel = database.child('dataLevel');
+final dataManDis = database.child('manDis');
+final dataStatusKit = database.child("statusKit");
+final dataModeDis = database.child("modeDis");
+final dataModeCat = database.child("modeCat");
